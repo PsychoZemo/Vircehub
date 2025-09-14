@@ -16,10 +16,10 @@ local Window = Rayfield:CreateWindow({
    },
    KeySystem = true,
    KeySettings = {
-      Title = "Key | Youtube Hub",
+      Title = "Key | VirceHub",
       Subtitle = "Key System",
       Note = "Key In Discord Server",
-      FileName = "YoutubeHubKey1",
+      FileName = "VircehubKey",
       SaveKey = false,
       GrabKeyFromSite = true,
       Key = {"https://pastebin.com/raw/mcPitM4G"}
